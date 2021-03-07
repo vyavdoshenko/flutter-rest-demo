@@ -1,0 +1,12 @@
+{
+  "@@locale": "ru",
+  "login_title": "Экран входа",
+  "password_cant_be_empty": "Пароль не может быть пустым",
+  "login_cant_be_empty": "Пользователь не может быть пустым",
+  "type_your_login": "Имя пользователя",
+  "type_your_password": "Пароль",
+  "login": "Вход",
+  "type_ip_or_domain": "IP или доменное имя",
+  "ip_cant_be_empty": "IP или доменное имя не может быть пустым",
+  "presenter_title": "Информация"
+}

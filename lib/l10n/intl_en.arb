@@ -1,0 +1,12 @@
+{
+  "@@locale": "en",
+  "login_title": "Login screen",
+  "password_cant_be_empty": "Password can't be empty",
+  "login_cant_be_empty": "Login can't be empty",
+  "type_your_login": "Username",
+  "type_your_password": "Password",
+  "login": "Login",
+  "type_ip_or_domain": "IP address or domain name",
+  "ip_cant_be_empty": "IP address or domain name can't be empty",
+  "presenter_title": "Information screen"
+}
